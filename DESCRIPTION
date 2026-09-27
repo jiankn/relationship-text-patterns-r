@@ -1,0 +1,10 @@
+Package: textpatterns
+Type: Package
+Title: Descriptive Helpers for Relationship Texting Patterns
+Version: 0.1.0
+Authors@R: person("WhatHeThinks", "Contributors", role = c("aut", "cre"), email = "jiankn@users.noreply.github.com")
+Description: Small deterministic helpers for describing observable messaging patterns such as conversation initiation shares. The package intentionally separates measurement from interpretation.
+License: MIT + file LICENSE
+Encoding: UTF-8
+URL: https://whathethinks.com/who-texts-first, https://github.com/jiankn/relationship-text-patterns-r
+BugReports: https://github.com/jiankn/relationship-text-patterns-r/issues
